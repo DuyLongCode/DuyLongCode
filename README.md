@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DuyLongCode
 - 👀 I’m interested in Security and Machine Learning
 - 🌱 I’m currently learning C++,C#,Dart,Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me I am invisible
 - 😄 Pronouns: DL
 - ⚡ Fun fact: I love cat
