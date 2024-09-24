@@ -2,7 +2,7 @@
 - 👀 I’m interested in Security and Machine Learning
 - 🌱 I’m currently learning C++,C#,Dart,Python
 - 📫 How to reach me I am invisible
-- 😄 Pronouns: DL
+- 😄 Pronouns: Dragon
 - ⚡ Fun fact: I love cat
 
 <!---
