@@ -4,7 +4,7 @@
 - 📫 How to reach me: I am invisible
 - 😄 Pronouns: Dragon
 - ⚡ Fun fact: I love cat
-*** My github repos focous in my personal projects and some customization on my Macbook (I am a Tech Enthusiasm) ***
+### My github repos focous in my personal projects and some customization on my Macbook (I am a Tech Enthusiasm)
 <!---
 DuyLongCode/DuyLongCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
