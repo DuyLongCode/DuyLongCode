@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuyLong
-- 👀 I’m interested in Security and Machine Learning
+- 👀 I’m interested in App develop and Machine learning
 - 🌱 I’m currently learning C++,C#,Dart,Python
 - 📫 How to reach me: I am invisible
 - 😄 Pronouns: Dragon
